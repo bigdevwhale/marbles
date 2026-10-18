@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marbles</string>
+
+    <!-- Common -->
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="next">Дальше</string>
+    <string name="back">Назад</string>
+    <string name="earlier">Раньше</string>
+    <string name="later">Позже</string>
+    <string name="settings">Настройки</string>
+    <string name="add_child">Добавить ребёнка</string>
+    <string name="and_sep">" и "</string>
+    <string name="no_camera">На телефоне нет приложения камеры.</string>
+    <string name="span_m">%d мин</string>
+    <string name="span_h">%d ч</string>
+    <string name="span_hm">%1$d ч %2$d мин</string>
+    <string name="about_minutes">около %s</string>
+
+    <!-- Tabs -->
+    <string name="tab_jar">Банка</string>
+    <string name="tab_tonight">Вечер</string>
+    <string name="tab_mirror">Зеркало</string>
+    <string name="tab_memories">Память</string>
+
+    <!-- Kinds of time together -->
+    <string name="kind_play">Игра</string>
+    <string name="kind_outside">На улице</string>
+    <string name="kind_talk">Разговор</string>
+    <string name="kind_book">Книги</string>
+    <string name="kind_kitchen">Кухня</string>
+    <string name="kind_make">Мастерим</string>
+    <string name="kind_sport">Спорт</string>
+    <string name="kind_routine">Повседневное</string>
+    <string name="kind_trip">Вылазка</string>
+
+    <!-- Welcome -->
+    <string name="welcome_1_title">Около 940 суббот</string>
+    <string name="welcome_1_text">Столько их проходит от рождения ребёнка до его восемнадцатилетия. Представьте их шариками в стеклянной банке. Каждую неделю один уходит. Marbles показывает эту банку и помогает, чтобы оставшиеся шарики ушли на время вместе.</string>
+    <string name="welcome_2_title">Честное зеркало</string>
+    <string name="welcome_2_text">Быть в одной комнате — ещё не значит быть вместе. С вашего разрешения Marbles кладёт рядом две полоски за каждый вечер: время в телефоне и время с детьми. Без нотаций и без серий. Только две цифры — и идеи на случай, когда сил нет.</string>
+    <string name="welcome_3_title">Чья банка первая?</string>
+    <string name="welcome_3_text">Братьев и сестёр можно добавить потом, у каждого будет своя банка.</string>
+    <string name="welcome_start">Открыть банку</string>
+
+    <!-- Child -->
+    <string name="child_new">Ребёнок</string>
+    <string name="child_name">Имя</string>
+    <string name="child_name_hint">Маша</string>
+    <string name="child_born">День рождения</string>
+    <string name="child_born_pick">Выбрать дату</string>
+    <string name="child_gender_q">Девочка или мальчик?</string>
+    <string name="child_girl">Девочка</string>
+    <string name="child_boy">Мальчик</string>
+    <string name="child_none">Не указывать</string>
+    <string name="child_gender_why">Только для грамматики в паре фраз.</string>
+    <string name="child_glass">Цвет</string>
+    <string name="child_about">Имя и день рождения</string>
+    <string name="child_delete_title">Удалить: %s?</string>
+    <string name="child_delete_text">Удалятся банка, время только с этим ребёнком и его увлечения. Общее время с остальными останется.</string>
+    <string name="child_left">Суббот осталось</string>
+    <string name="child_month">За 30 дней</string>
+    <string name="child_alone_last">Один на один</string>
+    <string name="into_why">О чём спросить, и на что оглянуться через пару лет: любимое, друзья, страхи.</string>
+    <string name="into_hint">Динозавры, подружка Соня…</string>
+    <string name="into_add">Добавить</string>
+    <string name="into_passed">Прошло</string>
+
+    <!-- Jar -->
+    <string name="jar_eyebrow">%1$s · %2$s</string>
+    <string name="jar_grown_title">Банка пуста</string>
+    <string name="jar_grown_text">%s уже взросл{ый|ая}. Теперь субботы — это те, что вам дарят. Записывайте их дальше.</string>
+    <string name="jar_this_week">Шарик этой недели</string>
+    <string name="jar_week_empty">Пока ничего вместе</string>
+    <string name="jar_week_of">%1$s из %2$s</string>
+    <string name="jar_week_hint">В воскресенье вечером он ляжет в лоток — таким ярким, какой была неделя.</string>
+    <string name="jar_week_full">Неделя в полный цвет. Шарик у вас в руке.</string>
+    <string name="jar_tray">Лоток</string>
+    <string name="jar_why">Почему банка</string>
+    <string name="jar_share">Позади уже %1$d%% суббот детства.</string>
+    <string name="jar_tail_end">Тим Урбан подсчитал в эссе «The Tail End»: к окончанию школы позади около 93% всего времени, которое родитель и ребёнок проведут рядом за жизнь. Остаток делится на всю оставшуюся жизнь.</string>
+    <string name="week_of_age">%1$s, %2$s</string>
+    <string name="week_none">Без времени вместе</string>
+    <string name="week_mostly">Больше всего: %s</string>
+    <string name="week_empty_now">Неделя ещё не кончилась. Время есть.</string>
+    <string name="week_empty_past">Серый шарик. Бывает.</string>
+    <string name="week_add">Добавить время в эту неделю</string>
+
+    <!-- Together -->
+    <string name="together_start">Вместе</string>
+    <string name="start_title">Время вместе</string>
+    <string name="start_with">С кем</string>
+    <string name="start_idea">Идея: %s</string>
+    <string name="start_now">Убрать телефон и начать</string>
+    <string name="start_now_sub">Часы идут, пока телефон лежит. Минуты, когда вы его брали, не засчитываются — их считает сам телефон.</string>
+    <string name="start_now_sub_blind">Часы идут, пока вы не закончите. Дайте зеркалу доступ к статистике — и минуты в телефоне будут вычитаться.</string>
+    <string name="start_past">Уже было: записать</string>
+    <string name="together_with">Вместе: %s</string>
+    <string name="together_hint">Положите телефон экраном вниз. Вернитесь, когда закончите.</string>
+    <string name="together_clean">К телефону ни разу не прикасались.</string>
+    <string name="together_picked">Телефон брали %1$s, всего %2$s</string>
+    <string name="together_finish">Закончить</string>
+    <string name="together_cancel">Не получилось</string>
+    <string name="together_cancel_title">Выбросить этот раз?</string>
+    <string name="together_cancel_text">Часы остановятся, ничего не запишется.</string>
+    <string name="together_cancel_go">Выбросить</string>
+    <string name="together_too_short">Меньше минуты: не записано.</string>
+    <string name="together_note_title">Вместе: %s</string>
+    <string name="together_note_text">Телефон отложен. Нажмите, чтобы закончить.</string>
+
+    <!-- Log -->
+    <string name="log_new">Время вместе</string>
+    <string name="log_title">Время вместе</string>
+    <string name="log_question">Вопрос перед сном</string>
+    <string name="log_phone">Телефон забрал %s, эти минуты не засчитаны.</string>
+    <string name="log_phone_none">Телефон ни разу не брали.</string>
+    <string name="log_with">С кем</string>
+    <string name="log_what">Что это было</string>
+    <string name="log_when">Когда</string>
+    <string name="log_started">Начало</string>
+    <string name="log_minutes">Сколько</string>
+    <string name="log_memory">На память</string>
+    <string name="log_photo">Одна фотография</string>
+    <string name="log_photo_remove">Убрать фотографию</string>
+    <string name="log_quote_hint">Что сказал{|а}</string>
+    <string name="log_answer_hint">Ответ — своими словами ребёнка</string>
+    <string name="log_note_hint">Заметка для себя</string>
+    <string name="log_first">Впервые</string>
+    <string name="log_first_sub">Первый велосипед, первая электричка, первый перевёрнутый блин</string>
+    <string name="log_alone">Только мы вдвоём</string>
+    <string name="log_alone_sub">Без братьев и сестёр: время один на один</string>
+    <string name="log_delete_title">Удалить?</string>
+    <string name="log_delete_text">Шарик уйдёт из недели, фотография удалится.</string>
+    <string name="entry_phone">телефон %s, не засчитано</string>
+    <string name="entry_question">Вопрос перед сном</string>
+
+    <!-- Tonight -->
+    <string name="tonight_title">Вечер · %s</string>
+    <string name="tonight_battery">Сколько у вас осталось сил</string>
+    <string name="energy_low">Пусто</string>
+    <string name="energy_mid">Немного</string>
+    <string name="energy_high">Полно</string>
+    <string name="place_home">Дома</string>
+    <string name="place_out">На улице</string>
+    <string name="tonight_go">Начать</string>
+    <string name="tonight_another">Другое</string>
+    <string name="tonight_deck">Вся колода для этого возраста (%d)</string>
+    <string name="tonight_ritual">Пять минут внутри обычного</string>
+    <string name="ritual_road">По дороге</string>
+    <string name="ritual_meal">За ужином</string>
+    <string name="ritual_bath">В ванной</string>
+    <string name="ritual_bed">Перед сном</string>
+    <string name="tonight_question">Для края кровати</string>
+    <string name="tonight_answer">Записать ответ</string>
+    <string name="tonight_other_q">Другой</string>
+    <string name="tonight_into">Чем сейчас увлечён{|а} %s</string>
+    <string name="tonight_into_empty">Пока ничего не записано. Чем сейчас живёт %s? Нажмите, чтобы добавить.</string>
+    <string name="tonight_ask">Спросите про: %s</string>
+    <string name="tonight_note">В %s</string>
+    <string name="alone_title">Один на один</string>
+    <string name="alone_sub">При братьях и сёстрах ребёнок говорит иначе. Наедине с вами он рассказывает больше.</string>
+    <string name="alone_never">Пока ни разу, насколько знает Marbles</string>
+    <string name="alone_today">Сегодня</string>
+    <string name="plans_title">В планах</string>
+    <string name="plans_empty">Ничего не запланировано. Суббота с планом не проходит мимо.</string>
+    <string name="plans_add">Запланировать</string>
+    <string name="plan_done">Сделано</string>
+    <string name="plan_alone_short">один на один</string>
+
+    <!-- Deck -->
+    <string name="deck_title">Идеи · %s</string>
+    <string name="deck_rituals">5 мин</string>
+    <string name="deck_plan">В план</string>
+    <string name="deck_empty">В этой части колоды для такого возраста ничего нет.</string>
+
+    <!-- Plan -->
+    <string name="plan_title">План</string>
+    <string name="plan_alone_why">Только вы вдвоём: выберите день и то, что выбрал бы сам ребёнок.</string>
+    <string name="plan_when">Когда</string>
+    <string name="plan_today">Сегодня</string>
+    <string name="plan_tomorrow">Завтра</string>
+    <string name="plan_other">Другой день</string>
+    <string name="plan_what">Что</string>
+    <string name="plan_what_hint">Пикник в парке</string>
+    <string name="plan_save">Запланировать</string>
+
+    <!-- Mirror -->
+    <string name="mirror_title">Зеркало</string>
+    <string name="mirror_hours">Семейные часы: будни %1$s, выходные %2$s</string>
+    <string name="mirror_hours_edit">Семейные часы</string>
+    <string name="mirror_ask_title">Зеркалу нужно видеть телефон</string>
+    <string name="mirror_ask_text">Чтобы считать минуты в телефоне в семейные часы, Marbles нужен «доступ к истории использования». На следующем экране найдите Marbles и включите.</string>
+    <string name="mirror_private">Хранятся только минуты по приложениям, на этом телефоне. Ничего никуда не отправляется: у приложения вообще нет доступа в интернет.</string>
+    <string name="mirror_ask_go">Дать доступ</string>
+    <string name="mirror_today">Сегодня пока, %s</string>
+    <string name="mirror_yesterday">Вчера, %s</string>
+    <string name="mirror_today_short">Сегодня</string>
+    <string name="mirror_phone">Телефон</string>
+    <string name="mirror_children">Дети</string>
+    <string name="mirror_zero">0 мин</string>
+    <string name="mirror_sentence">В телефоне: %1$s. Вместе: %2$s.</string>
+    <string name="mirror_none_yet">Первый вечер появится здесь, когда начнутся семейные часы.</string>
+    <string name="mirror_week">Вечер за вечером</string>
+    <string name="mirror_totals">Последние вечера: %d</string>
+    <string name="mirror_change_phone">За вечер телефон: %s.</string>
+    <string name="mirror_change_kids">Дети: %s.</string>
+    <string name="mirror_more">на %s больше, чем неделей раньше</string>
+    <string name="mirror_less">на %s меньше, чем неделей раньше</string>
+    <string name="mirror_same">столько же, сколько неделей раньше</string>
+    <string name="mirror_apps">Что забрало вечера на этой неделе</string>
+    <string name="mirror_shield">Мягкий щит</string>
+    <string name="mirror_footnote">Эти цифры только для вас. Их никто не видит, и приложение никогда их не оценивает.</string>
+    <string name="shield_switch">Слово в семейные часы</string>
+    <string name="shield_switch_sub">Когда телефон забирает %d мин из четверти часа — тихое уведомление с именем ребёнка. Не чаще раза в 45 минут.</string>
+    <string name="shield_title">%s рядом</string>
+    <string name="shield_text">%2$s в телефоне за последние четверть часа. Может, десять минут вместе?</string>
+    <string name="shield_text_f">%2$s в телефоне за последние четверть часа. Может, десять минут с ней?</string>
+    <string name="shield_text_m">%2$s в телефоне за последние четверть часа. Может, десять минут с ним?</string>
+
+    <!-- Kept -->
+    <string name="memories_title">Память</string>
+    <string name="memories_letter">Письмо месяца</string>
+    <string name="memories_almanac">Альманах</string>
+    <string name="memories_all">Всё</string>
+    <string name="memories_quotes">Слова</string>
+    <string name="memories_firsts">Впервые</string>
+    <string name="memories_empty">Здесь будет храниться время вместе: что делали, фотография, что было сказано.</string>
+    <string name="memories_empty_quotes">Пока не записано ни одной фразы. Они уходят быстрее, чем кажется.</string>
+    <string name="memories_empty_firsts">Пока ни одного «впервые».</string>
+    <string name="letter_dear">Дорогой человек,</string>
+    <string name="letter_opening">%1$s, всего %2$s: %3$s в банке.</string>
+    <string name="letter_longest">Дольше всего — «%1$s», %2$s: %3$s.</string>
+    <string name="letter_with_whom">С кем</string>
+    <string name="letter_mostly">Больше всего: %s.</string>
+    <string name="letter_said">Что они сказали</string>
+    <string name="letter_firsts">Впервые</string>
+    <string name="letter_pictures">Фотографии</string>
+    <string name="letter_mirror">Вечеров в зеркале: %1$d. В телефоне — %2$s, с детьми — %3$s.</string>
+    <string name="letter_empty">За это время в банке пусто. Следующее ещё впереди.</string>
+    <string name="letter_share">Сохранить книжечкой (PDF)</string>
+    <string name="letter_making">Переплетаем…</string>
+    <string name="letter_together">вместе</string>
+    <string name="letter_days">дней с временем вместе</string>
+    <string name="almanac_title">Marbles · альманах</string>
+    <string name="almanac_numbers">В цифрах</string>
+    <string name="almanac_mirror">Вечеров в зеркале: %1$d. В телефоне — %2$s, с детьми — %3$s.</string>
+
+    <!-- Notifications -->
+    <string name="channel_nudges">Напоминания</string>
+    <string name="channel_nudges_desc">Идея на вечер, план на субботу, письмо месяца, мягкий щит</string>
+    <string name="channel_together">Время вместе</string>
+    <string name="channel_together_desc">Тихие часы, пока телефон отложен</string>
+    <string name="nudge_evening_title">Идея на вечер · %s</string>
+    <string name="nudge_weekend_title">Что делаете в субботу?</string>
+    <string name="nudge_weekend">Один план на выходные — и суббота не пройдёт мимо.</string>
+    <string name="nudge_letter_title">Письмо за %s</string>
+    <string name="nudge_letter">Месяц в банке: сколько времени, что сказали дети, фотографии.</string>
+    <string name="nudge_interests_title">Чем сейчас живёт %s?</string>
+    <string name="nudge_interests">Месяц никто не записывал. Стоит спросить.</string>
+
+    <!-- Settings -->
+    <string name="set_jar">Банка</string>
+    <string name="set_goal">Неделя в полный цвет</string>
+    <string name="set_goal_sub">Сколько времени вместе за неделю окрашивает шарик полностью. Меньше — бледнее, ничего — серый.</string>
+    <string name="set_hours">Семейные часы</string>
+    <string name="set_hours_sub">Когда дети дома и не спят. Зеркало смотрит только на эти часы.</string>
+    <string name="set_weekdays">Будни</string>
+    <string name="set_weekends">Выходные</string>
+    <string name="set_usage">Доступ к истории использования</string>
+    <string name="set_usage_on">Включён: зеркало видит телефон</string>
+    <string name="set_usage_off">Выключен: нажмите, чтобы включить</string>
+    <string name="set_shield_minutes">Телефон за четверть часа</string>
+    <string name="set_reminders">Напоминания</string>
+    <string name="set_evening">Идея на вечер</string>
+    <string name="set_evening_sub">Одна, примерно когда вы приходите домой</string>
+    <string name="set_evening_at">Когда</string>
+    <string name="set_evening_learned">%s — по вашим вечерам</string>
+    <string name="set_weekend">В четверг: план на субботу</string>
+    <string name="set_weekend_sub">Только если ничего ещё не запланировано</string>
+    <string name="set_letter">Письмо месяца</string>
+    <string name="set_letter_sub">1-го числа; и раз в месяц — чем дети живут сейчас</string>
+    <string name="set_language">Язык</string>
+    <string name="set_lang_system">Системный</string>
+    <string name="set_data">Ваши данные</string>
+    <string name="backup_export">Резервная копия</string>
+    <string name="backup_export_sub">Всё, включая фотографии, в одном zip</string>
+    <string name="backup_import">Восстановить</string>
+    <string name="backup_import_sub">Из zip-файла Marbles</string>
+    <string name="backup_import_title">Восстановить из копии?</string>
+    <string name="backup_import_text">Всё, что здесь сейчас, заменится содержимым файла.</string>
+    <string name="backup_import_go">Восстановить</string>
+    <string name="backup_done">Копия сохранена.</string>
+    <string name="backup_failed">Не получилось записать копию.</string>
+    <string name="backup_restored">Восстановлено.</string>
+    <string name="backup_bad">Это не резервная копия Marbles.</string>
+    <string name="set_about">О приложении</string>
+    <string name="set_privacy">Без аккаунта, без облака, без рекламы, без доступа в интернет. Всё остаётся на этом телефоне.</string>
+
+    <plurals name="years">
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+        <item quantity="other">%d года</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяца</item>
+        <item quantity="many">%d месяцев</item>
+        <item quantity="other">%d месяца</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дня</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минуты</item>
+    </plurals>
+    <plurals name="times">
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d раза</item>
+        <item quantity="many">%d раз</item>
+        <item quantity="other">%d раза</item>
+    </plurals>
+    <plurals name="marbles">
+        <item quantity="one">%d шарик</item>
+        <item quantity="few">%d шарика</item>
+        <item quantity="many">%d шариков</item>
+        <item quantity="other">%d шарика</item>
+    </plurals>
+    <plurals name="days_together">
+        <item quantity="one">%d день вместе</item>
+        <item quantity="few">%d дня вместе</item>
+        <item quantity="many">%d дней вместе</item>
+        <item quantity="other">%d дня вместе</item>
+    </plurals>
+    <plurals name="saturdays_left">
+        <item quantity="one">суббота до восемнадцати</item>
+        <item quantity="few">субботы до восемнадцати</item>
+        <item quantity="many">суббот до восемнадцати</item>
+        <item quantity="other">субботы до восемнадцати</item>
+    </plurals>
+    <plurals name="tray_count">
+        <item quantity="one">%1$d неделя вынута из банки, вместе — %2$d</item>
+        <item quantity="few">%1$d недели вынуты из банки, вместе — %2$d</item>
+        <item quantity="many">%1$d недель вынуто из банки, вместе — %2$d</item>
+        <item quantity="other">%1$d недели вынуты из банки, вместе — %2$d</item>
+    </plurals>
+    <plurals name="tray_before">
+        <item quantity="one">%d суббота прошла до того, как банку открыли</item>
+        <item quantity="few">%d субботы прошли до того, как банку открыли</item>
+        <item quantity="many">%d суббот прошло до того, как банку открыли</item>
+        <item quantity="other">%d субботы прошли до того, как банку открыли</item>
+    </plurals>
+    <plurals name="alone_days">
+        <item quantity="one">%d день назад</item>
+        <item quantity="few">%d дня назад</item>
+        <item quantity="many">%d дней назад</item>
+        <item quantity="other">%d дня назад</item>
+    </plurals>
+    <plurals name="into_past">
+        <item quantity="one">%d прежнее увлечение</item>
+        <item quantity="few">%d прежних увлечения</item>
+        <item quantity="many">%d прежних увлечений</item>
+        <item quantity="other">%d прежних увлечения</item>
+    </plurals>
+</resources>

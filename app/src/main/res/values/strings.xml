@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marbles</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="earlier">Earlier</string>
+    <string name="later">Later</string>
+    <string name="settings">Settings</string>
+    <string name="add_child">Add a child</string>
+    <string name="and_sep">" and "</string>
+    <string name="no_camera">No camera app on this phone.</string>
+    <string name="span_m">%d min</string>
+    <string name="span_h">%d h</string>
+    <string name="span_hm">%1$d h %2$d min</string>
+    <string name="about_minutes">about %s</string>
+
+    <!-- Tabs -->
+    <string name="tab_jar">Jar</string>
+    <string name="tab_tonight">Tonight</string>
+    <string name="tab_mirror">Mirror</string>
+    <string name="tab_memories">Kept</string>
+
+    <!-- Kinds of time together -->
+    <string name="kind_play">Play</string>
+    <string name="kind_outside">Outside</string>
+    <string name="kind_talk">Talk</string>
+    <string name="kind_book">Books</string>
+    <string name="kind_kitchen">Kitchen</string>
+    <string name="kind_make">Making</string>
+    <string name="kind_sport">Sport</string>
+    <string name="kind_routine">Everyday</string>
+    <string name="kind_trip">Outing</string>
+
+    <!-- Welcome -->
+    <string name="welcome_1_title">About 940 Saturdays</string>
+    <string name="welcome_1_text">That\'s how many there are from the day a child is born to their eighteenth birthday. Picture them as marbles in a jar. Every week one leaves. Marbles shows you the jar, and helps the ones still in it go to time together.</string>
+    <string name="welcome_2_title">An honest mirror</string>
+    <string name="welcome_2_text">Being in the same room isn\'t being together. With your permission, Marbles puts two lines side by side for every evening: the time on the phone and the time with your children. No lectures and no streaks. Just the two numbers, and ideas for when you\'re tired.</string>
+    <string name="welcome_3_title">Whose jar first?</string>
+    <string name="welcome_3_text">Brothers and sisters can be added later; each gets a jar of their own.</string>
+    <string name="welcome_start">Open the jar</string>
+
+    <!-- Child -->
+    <string name="child_new">A child</string>
+    <string name="child_name">Name</string>
+    <string name="child_name_hint">Masha</string>
+    <string name="child_born">Birthday</string>
+    <string name="child_born_pick">Pick the date</string>
+    <string name="child_gender_q">Girl or boy?</string>
+    <string name="child_girl">Girl</string>
+    <string name="child_boy">Boy</string>
+    <string name="child_none">Don\'t say</string>
+    <string name="child_gender_why">Only for the grammar of a few sentences.</string>
+    <string name="child_glass">Their colour</string>
+    <string name="child_about">Name and birthday</string>
+    <string name="child_delete_title">Remove %s?</string>
+    <string name="child_delete_text">Their jar, the time with only them, and what they\'re into will be deleted. Time shared with others stays.</string>
+    <string name="child_left">Saturdays left</string>
+    <string name="child_month">Last 30 days</string>
+    <string name="child_alone_last">Last one on one</string>
+    <string name="into_why">Things to ask about, and to look back on in a few years: favourite things, friends, fears.</string>
+    <string name="into_hint">Dinosaurs, a friend called Sonya…</string>
+    <string name="into_add">Add</string>
+    <string name="into_passed">It passed</string>
+
+    <!-- Jar -->
+    <string name="jar_eyebrow">%1$s · %2$s</string>
+    <string name="jar_grown_title">The jar is empty</string>
+    <string name="jar_grown_text">%s is grown up. The Saturdays now are the ones they choose to give you. Keep logging them.</string>
+    <string name="jar_this_week">This week\'s marble</string>
+    <string name="jar_week_empty">Nothing together yet</string>
+    <string name="jar_week_of">%1$s of %2$s</string>
+    <string name="jar_week_hint">It goes into the tray on Sunday night, as bright as the week was.</string>
+    <string name="jar_week_full">A full-colour week. It\'s in your hand.</string>
+    <string name="jar_tray">The tray</string>
+    <string name="jar_why">Why a jar</string>
+    <string name="jar_share">%1$d%% of %2$s\'s childhood Saturdays are already behind you.</string>
+    <string name="jar_tail_end">Tim Urban worked it out in \"The Tail End\": by the time a child leaves school, around 93% of all the in-person time a parent and child will spend together is already spent. The rest of life shares out what\'s left.</string>
+    <string name="week_of_age">%1$s, %2$s</string>
+    <string name="week_none">No time together</string>
+    <string name="week_mostly">Mostly: %s</string>
+    <string name="week_empty_now">The week isn\'t over. There\'s still time.</string>
+    <string name="week_empty_past">A grey marble. It happens.</string>
+    <string name="week_add">Add time to this week</string>
+
+    <!-- Together -->
+    <string name="together_start">Together</string>
+    <string name="start_title">Time together</string>
+    <string name="start_with">With</string>
+    <string name="start_idea">Idea: %s</string>
+    <string name="start_now">Put the phone away and start</string>
+    <string name="start_now_sub">The clock runs while the phone is down. Minutes you pick it up for are left out, measured by the phone itself.</string>
+    <string name="start_now_sub_blind">The clock runs until you finish. Give the mirror usage access and the minutes on the phone will be left out.</string>
+    <string name="start_past">It already happened: write it down</string>
+    <string name="together_with">Together with %s</string>
+    <string name="together_hint">Put the phone face down somewhere. Come back when you\'re done.</string>
+    <string name="together_clean">The phone hasn\'t been touched.</string>
+    <string name="together_picked">Phone picked up %1$s, %2$s in all</string>
+    <string name="together_finish">Finish</string>
+    <string name="together_cancel">Didn\'t happen after all</string>
+    <string name="together_cancel_title">Throw this one away?</string>
+    <string name="together_cancel_text">The clock stops and nothing is written down.</string>
+    <string name="together_cancel_go">Throw away</string>
+    <string name="together_too_short">Less than a minute: not written down.</string>
+    <string name="together_note_title">Together: %s</string>
+    <string name="together_note_text">The phone is away. Tap to finish.</string>
+
+    <!-- Log -->
+    <string name="log_new">Time together</string>
+    <string name="log_title">Time together</string>
+    <string name="log_question">Bedtime question</string>
+    <string name="log_phone">The phone took %s of it; those minutes don\'t count.</string>
+    <string name="log_phone_none">The phone wasn\'t picked up once.</string>
+    <string name="log_with">With</string>
+    <string name="log_what">What it was</string>
+    <string name="log_when">When</string>
+    <string name="log_started">Started</string>
+    <string name="log_minutes">How long</string>
+    <string name="log_memory">To remember</string>
+    <string name="log_photo">One picture</string>
+    <string name="log_photo_remove">Remove the picture</string>
+    <string name="log_quote_hint">Something they said</string>
+    <string name="log_answer_hint">Their answer, in their words</string>
+    <string name="log_note_hint">A note for yourself</string>
+    <string name="log_first">A first time</string>
+    <string name="log_first_sub">The first bike ride, the first train, the first pancake they flipped</string>
+    <string name="log_alone">Just the two of us</string>
+    <string name="log_alone_sub">No brothers or sisters: time one on one</string>
+    <string name="log_delete_title">Delete this?</string>
+    <string name="log_delete_text">The marble leaves the week, and its picture is deleted.</string>
+    <string name="entry_phone">phone %s, not counted</string>
+    <string name="entry_question">Bedtime question</string>
+
+    <!-- Tonight -->
+    <string name="tonight_title">Tonight with %s</string>
+    <string name="tonight_battery">How much battery is left in you</string>
+    <string name="energy_low">Empty</string>
+    <string name="energy_mid">Some</string>
+    <string name="energy_high">Full</string>
+    <string name="place_home">At home</string>
+    <string name="place_out">Out</string>
+    <string name="tonight_go">Start</string>
+    <string name="tonight_another">Another</string>
+    <string name="tonight_deck">The whole deck for this age (%d)</string>
+    <string name="tonight_ritual">Five minutes inside the everyday</string>
+    <string name="ritual_road">On the way</string>
+    <string name="ritual_meal">At dinner</string>
+    <string name="ritual_bath">In the bath</string>
+    <string name="ritual_bed">At bedtime</string>
+    <string name="tonight_question">For the edge of the bed</string>
+    <string name="tonight_answer">Write the answer</string>
+    <string name="tonight_other_q">Another</string>
+    <string name="tonight_into">What %s is into now</string>
+    <string name="tonight_into_empty">Nothing written yet. What is %s into now? Tap to add.</string>
+    <string name="tonight_ask">Ask about: %s</string>
+    <string name="tonight_note">At %s</string>
+    <string name="alone_title">One on one</string>
+    <string name="alone_sub">With brothers and sisters around, a child talks differently. Time with just you is when they say more.</string>
+    <string name="alone_never">Not yet, as far as Marbles knows</string>
+    <string name="alone_today">Today</string>
+    <string name="plans_title">Planned</string>
+    <string name="plans_empty">Nothing planned. A Saturday with a plan doesn\'t slip by.</string>
+    <string name="plans_add">Plan something</string>
+    <string name="plan_done">Done</string>
+    <string name="plan_alone_short">one on one</string>
+
+    <!-- Deck -->
+    <string name="deck_title">Ideas for %s</string>
+    <string name="deck_rituals">5 min</string>
+    <string name="deck_plan">Plan</string>
+    <string name="deck_empty">Nothing in this part of the deck for this age.</string>
+
+    <!-- Plan -->
+    <string name="plan_title">Plan</string>
+    <string name="plan_alone_why">Just the two of you: pick a day and something only they would choose.</string>
+    <string name="plan_when">When</string>
+    <string name="plan_today">Today</string>
+    <string name="plan_tomorrow">Tomorrow</string>
+    <string name="plan_other">Another day</string>
+    <string name="plan_what">What</string>
+    <string name="plan_what_hint">A picnic in the park</string>
+    <string name="plan_save">Plan it</string>
+
+    <!-- Mirror -->
+    <string name="mirror_title">The mirror</string>
+    <string name="mirror_hours">Family hours: weekdays %1$s, weekends %2$s</string>
+    <string name="mirror_hours_edit">Family hours</string>
+    <string name="mirror_ask_title">The mirror needs to see the phone</string>
+    <string name="mirror_ask_text">To count the minutes on the phone in the family hours, Marbles needs \"usage access\". Find Marbles on the next screen and switch it on.</string>
+    <string name="mirror_private">Only minutes per app are kept, on this phone. Nothing is sent anywhere: the app has no internet permission at all.</string>
+    <string name="mirror_ask_go">Give usage access</string>
+    <string name="mirror_today">Today so far, %s</string>
+    <string name="mirror_yesterday">Yesterday, %s</string>
+    <string name="mirror_today_short">Today</string>
+    <string name="mirror_phone">Phone</string>
+    <string name="mirror_children">Children</string>
+    <string name="mirror_zero">0 min</string>
+    <string name="mirror_sentence">On the phone: %1$s. Together: %2$s.</string>
+    <string name="mirror_none_yet">The first evening shows up here once the family hours begin.</string>
+    <string name="mirror_week">Evening by evening</string>
+    <string name="mirror_totals">The last %d evenings</string>
+    <string name="mirror_change_phone">Per evening, the phone: %s.</string>
+    <string name="mirror_change_kids">The children: %s.</string>
+    <string name="mirror_more">%s more than the week before</string>
+    <string name="mirror_less">%s less than the week before</string>
+    <string name="mirror_same">the same as the week before</string>
+    <string name="mirror_apps">What took the evenings this week</string>
+    <string name="mirror_shield">The shield</string>
+    <string name="mirror_footnote">These numbers are only for you. Nobody else sees them, and the app never judges them.</string>
+    <string name="shield_switch">A word in the family hours</string>
+    <string name="shield_switch_sub">When the phone takes %d minutes of a quarter hour, a quiet notification with a child\'s name. At most once in 45 minutes.</string>
+    <string name="shield_title">%s is right here</string>
+    <string name="shield_text">%2$s on the phone in the last quarter hour. Maybe ten minutes together?</string>
+    <string name="shield_text_f">%2$s on the phone in the last quarter hour. Maybe ten minutes with her?</string>
+    <string name="shield_text_m">%2$s on the phone in the last quarter hour. Maybe ten minutes with him?</string>
+
+    <!-- Kept -->
+    <string name="memories_title">Kept</string>
+    <string name="memories_letter">The month\'s letter</string>
+    <string name="memories_almanac">The almanac</string>
+    <string name="memories_all">All</string>
+    <string name="memories_quotes">Words</string>
+    <string name="memories_firsts">Firsts</string>
+    <string name="memories_empty">Time with %s will be kept here: what you did, a picture, what was said.</string>
+    <string name="memories_empty_quotes">Nothing written down that %s said yet. It goes faster than you\'d think.</string>
+    <string name="memories_empty_firsts">No firsts marked yet.</string>
+    <string name="letter_dear">Dear you,</string>
+    <string name="letter_opening">%1$s, %2$s in all: %3$s in the jar.</string>
+    <string name="letter_longest">The longest was %1$s on %2$s: %3$s.</string>
+    <string name="letter_with_whom">With whom</string>
+    <string name="letter_mostly">Mostly: %s.</string>
+    <string name="letter_said">What they said</string>
+    <string name="letter_firsts">For the first time</string>
+    <string name="letter_pictures">Pictures</string>
+    <string name="letter_mirror">%1$d evenings in the mirror: %2$s on the phone, %3$s with the children.</string>
+    <string name="letter_empty">Nothing in the jar for this time. The next one is still to come.</string>
+    <string name="letter_share">Save as a little book (PDF)</string>
+    <string name="letter_making">Binding the book…</string>
+    <string name="letter_together">together</string>
+    <string name="letter_days">days with time together</string>
+    <string name="almanac_title">Marbles · the almanac</string>
+    <string name="almanac_numbers">In numbers</string>
+    <string name="almanac_mirror">%1$d evenings in the mirror: %2$s on the phone, %3$s with the children.</string>
+
+    <!-- Notifications -->
+    <string name="channel_nudges">Reminders</string>
+    <string name="channel_nudges_desc">An idea for the evening, Saturday\'s plan, the month\'s letter, the shield</string>
+    <string name="channel_together">Time together</string>
+    <string name="channel_together_desc">The quiet clock while the phone is away</string>
+    <string name="nudge_evening_title">An idea for tonight · %s</string>
+    <string name="nudge_weekend_title">What are you doing on Saturday?</string>
+    <string name="nudge_weekend">One plan for the weekend, and Saturday won\'t slip by.</string>
+    <string name="nudge_letter_title">The letter for %s</string>
+    <string name="nudge_letter">The month in the jar: how much time, what they said, the pictures.</string>
+    <string name="nudge_interests_title">What is %s into now?</string>
+    <string name="nudge_interests">Nobody has said for a month. Worth asking.</string>
+
+    <!-- Settings -->
+    <string name="set_jar">The jar</string>
+    <string name="set_goal">A full-colour week</string>
+    <string name="set_goal_sub">Time together in a week that makes its marble full colour. Less makes it paler, nothing makes it grey.</string>
+    <string name="set_hours">Family hours</string>
+    <string name="set_hours_sub">When the children are home and awake. The mirror looks only at these hours.</string>
+    <string name="set_weekdays">Weekdays</string>
+    <string name="set_weekends">Weekends</string>
+    <string name="set_usage">Usage access</string>
+    <string name="set_usage_on">On: the mirror sees the phone</string>
+    <string name="set_usage_off">Off: tap to switch on</string>
+    <string name="set_shield_minutes">Phone in a quarter hour</string>
+    <string name="set_reminders">Reminders</string>
+    <string name="set_evening">An idea for the evening</string>
+    <string name="set_evening_sub">One, around when you get home</string>
+    <string name="set_evening_at">When</string>
+    <string name="set_evening_learned">%s, learned from your evenings</string>
+    <string name="set_weekend">Thursday: Saturday\'s plan</string>
+    <string name="set_weekend_sub">Only if nothing is planned yet</string>
+    <string name="set_letter">The month\'s letter</string>
+    <string name="set_letter_sub">On the 1st; and once a month, what they\'re into now</string>
+    <string name="set_language">Language</string>
+    <string name="set_lang_system">System</string>
+    <string name="set_data">Your data</string>
+    <string name="backup_export">Back up</string>
+    <string name="backup_export_sub">Everything, pictures included, in one zip</string>
+    <string name="backup_import">Restore</string>
+    <string name="backup_import_sub">From a Marbles zip</string>
+    <string name="backup_import_title">Restore from the backup?</string>
+    <string name="backup_import_text">Everything here now will be replaced by what\'s in the file.</string>
+    <string name="backup_import_go">Restore</string>
+    <string name="backup_done">Backed up.</string>
+    <string name="backup_failed">Couldn\'t write the backup.</string>
+    <string name="backup_restored">Restored.</string>
+    <string name="backup_bad">That isn\'t a Marbles backup.</string>
+    <string name="set_about">About</string>
+    <string name="set_privacy">No account, no cloud, no ads, no internet permission. Everything stays on this phone.</string>
+
+    <plurals name="years">
+        <item quantity="one">%d year</item>
+        <item quantity="other">%d years</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d month</item>
+        <item quantity="other">%d months</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="times">
+        <item quantity="one">%d time</item>
+        <item quantity="other">%d times</item>
+    </plurals>
+    <plurals name="marbles">
+        <item quantity="one">%d marble</item>
+        <item quantity="other">%d marbles</item>
+    </plurals>
+    <plurals name="days_together">
+        <item quantity="one">%d day together</item>
+        <item quantity="other">%d days together</item>
+    </plurals>
+    <plurals name="saturdays_left">
+        <item quantity="one">Saturday left until eighteen</item>
+        <item quantity="other">Saturdays left until eighteen</item>
+    </plurals>
+    <plurals name="tray_count">
+        <item quantity="one">%1$d week out of the jar, %2$d of it together</item>
+        <item quantity="other">%1$d weeks out of the jar, %2$d of them with time together</item>
+    </plurals>
+    <plurals name="tray_before">
+        <item quantity="one">%d Saturday went by before the jar was opened</item>
+        <item quantity="other">%d Saturdays went by before the jar was opened</item>
+    </plurals>
+    <plurals name="alone_days">
+        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d days ago</item>
+    </plurals>
+    <plurals name="into_past">
+        <item quantity="one">%d thing they were into before</item>
+        <item quantity="other">%d things they were into before</item>
+    </plurals>
+</resources>

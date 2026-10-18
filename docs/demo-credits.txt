@@ -1,0 +1,11 @@
+Demo photos (demo build only), from Wikimedia Commons and Unsplash via Lorem Picsum:
+
+d-01.jpg  File:Little girl playing in rain (9171644209).jpg  দেবর্ষি রায় from Brno, Cz  CC BY-SA 2.0  https://upload.wikimedia.org/wikipedia/commons/c/cd/Little_girl_playing_in_rain_%289171644209%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+d-02.jpg  File:Little girl on swing.jpg  Luiz Carlos  CC BY 2.0  https://upload.wikimedia.org/wikipedia/commons/4/47/Little_girl_on_swing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+d-03.jpg  File:Cute Little Girl in Pink Dances on Beach during the Kite Festival. (4549438383).jpg  Mike Baird from Morro Bay,  CC BY 2.0  https://upload.wikimedia.org/wikipedia/commons/1/17/Cute_Little_Girl_in_Pink_Dances_on_Beach_during_the_Kite_Festival._%284549438383%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+d-04.jpg  File:Little girl playing with toys sitting at home from above.jpg  Shixart1985  CC BY 2.0  https://upload.wikimedia.org/wikipedia/commons/f/f4/Little_girl_playing_with_toys_sitting_at_home_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+d-05.jpg  File:Child-9417.jpg  Loadmaster (David R. Tribble)  CC BY-SA 3.0  https://upload.wikimedia.org/wikipedia/commons/f/fc/Child-9417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+d-06.jpg  File:A smiling boy.jpg  Hindustanilanguage  CC BY-SA 4.0  https://upload.wikimedia.org/wikipedia/commons/b/ba/A_smiling_boy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+d-07.jpg  picsum 838 (Unsplash)
+d-08.jpg  picsum 822 (Unsplash)
+d-09.jpg  picsum 1001 (Unsplash)
